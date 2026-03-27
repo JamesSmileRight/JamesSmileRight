@@ -62,7 +62,7 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesSmileRight&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesSmileRight&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
 </p>
 
 <p align="center">
