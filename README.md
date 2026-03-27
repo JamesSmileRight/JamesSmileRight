@@ -62,12 +62,20 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JamesSmileRight&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175em"/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JamesSmileRight&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesSmileRight&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=JamesSmileRight&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180em"/>
+</p>
+
+#### ⚡ Proficiency
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-85%25-orange?style=flat-square&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-80%25-green?style=flat-square&logo=springboot" alt="Spring"/>
+  <img src="https://img.shields.io/badge/MySQL-75%25-blue?style=flat-square&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Python-70%25-yellow?style=flat-square&logo=python" alt="Python"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamesSmileRight&custom_title=James'%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamesSmileRight&custom_title=Contribution%20Metrics&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
