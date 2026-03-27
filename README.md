@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm James Aathithyan
 
-<!--
-**JamesSmileRight/JamesSmileRight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend-focused full-stack developer  
+⚡ Building real-time systems & scalable web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔧 I build backend systems and APIs  
+- 🌐 Working on real-time dashboards and web platforms  
+- 🚀 Founder @ Vertise Digital Management  
+
+---
+
+## ⚙️ Tech Stack
+- 💻 Java, Python, JavaScript  
+- 🌐 HTML, CSS, React  
+- 🗄️ MySQL, REST APIs  
+- 🛠️ Git, Postman, Linux  
+
+---
+
+## 📌 Projects
+- 🔹 Real-Time Event Tracking System  
+- 🔹 Smart Energy Dashboard (Hackathon 🏆)  
+- 🔹 Web Applications for Clients  
+
+---
+
+## 🌐 Connect With Me
+- 🌍 Portfolio: https://www.vertisemarketing.com  
+- 💻 GitHub: https://github.com/JamesSmileRight  
+- 🔗 LinkedIn: https://www.linkedin.com/in/james-aathithyan  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=JamesSmileRight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesSmileRight)
