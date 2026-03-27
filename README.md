@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,20&height=200&section=header&text=James%20Aathithyan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20Founder&descSize=18&descAlignY=55"/>
 
 <p align="center">
-  <a href="https://www.vertisemarketing.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-vertisemarketing.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="YOUR_RESUME_PDF_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20My%20CV-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=JamesSmileRight&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -15,12 +15,12 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/105972/screenshots/3838128/coder.gif"/>
 
-I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digital Management**. I specialize in building high-performance real-time systems and scalable web applications. My approach combines technical rigor in backend architecture with a creative eye for design and media production.
+I am a **Backend-focused full-stack developer** and the founder of **Vertise Digital Management**. I specialize in building high-performance real-time systems and scalable web applications, combining technical rigor in backend architecture with a creative eye for design.
 
 - 🏢 Founder @ **Vertise Digital Management**
 - ⚙️ Currently engineering **real-time dashboards and web platforms**
-- 🎓 Experienced in **Java 3D scene graphs** and **Network Security protocols**
-- 💬 Talk to me about **Backend optimization**, **Three.js**, or **Media production**
+- 🎓 B.Tech Information Technology @ **PPG Institute Of Technology**
+- 💬 Ask me about **Java, Python, C, or Backend Optimization**
 - 📍 Based in **Coimbatore, Tamil Nadu**
 
 <br clear="both"/>
@@ -31,38 +31,37 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
 
 #### 🔤 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c&theme=dark" alt="Languages"/>
 </p>
 
 #### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" alt="Frontend"/>
 </p>
 
 #### ⚙️ Backend & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/>
 </p>
 
 #### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite&theme=dark" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
 </p>
 
 #### ☁️ DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github&theme=dark" alt="DevOps"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="DevOps"/>
 </p>
 
 #### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,vercel,threejs&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="Tools"/>
 </p>
 
 #### 🎨 Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark" alt="Design"/>
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere"/>
+  <img src="https://skillicons.dev/icons?i=ps,ai&theme=dark" alt="Design"/>
 </p>
 
 ---
@@ -86,29 +85,22 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
 
 ## 🏆 Achievements & Certifications
 
-<details>
+<details open>
 <summary><b>🥇 Achievements (Click to expand)</b></summary>
 <br>
 
-| 🏅  | Achievement                                          | Year |
-| --- | ---------------------------------------------------- | ---- |
-| 🥈  | **2nd Place** – NAAN Mudhalvan MERN Stack Hackathon  | 2025 |
-| 🥇  | **1st Place** – Startup Pitch, Hindusthan IT College | 2025 |
-| 🥇  | **1st Place** – Business Pitch, KGISL College        | 2025 |
-| 🥉  | **3rd Place** – Paper Presentation, Johnson College  | 2025 |
-| 🥇  | **1st Place** – Ideathon, Nehru College, Kerala      | 2024 |
-| 🥈  | **2nd Place** – Handloom Fashion Show                | 2024 |
+| 🏅  | Achievement                                                   | Year |
+| --- | ------------------------------------------------------------- | ---- |
+| 🥈  | **2nd Place** – National Level Hackathon, SNS Institute of Tech | 2026 |
 
 </details>
 
-<details>
+<details open>
 <summary><b>📜 Certifications (Click to expand)</b></summary>
 <br>
 
-- **DevOps** – International Certification on FITA Foundation by **Infosys**
-- **Java Foundation** – Certified by **Infosys**
-- **AWS APAC Solutions Architecture** – **Forage**
-- **Fundamentals of Docker and Kubernetes** – **Forage**
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
 
 </details>
 
@@ -117,7 +109,7 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:jamesaathithyandev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/james-aathithyan" target="_blank">
@@ -126,15 +118,12 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
   <a href="https://github.com/JamesSmileRight" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.vertisemarketing.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Programming%20is%20the%20art%20of%20telling%20another%20human%20being%20what%20they%20want%20the%20computer%20to%20do." alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." alt="Dev Quote"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
