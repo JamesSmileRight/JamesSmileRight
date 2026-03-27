@@ -1,26 +1,29 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,20&height=200&section=header&text=James%20Aathithyan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20Founder&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=James%20Aathithyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20Founder&descSize=18&descAlignY=52"/>
 
 <p align="center">
-  <a href="YOUR_RESUME_PDF_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20My%20CV-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  <a href="https://drive.google.com/file/d/1Jny3_w4lAZYwNnnaZqT31ROorlPl5tgc/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JamesSmileRight&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://www.vertisemarketing.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-vertisemarketing.com-3a7bd5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JamesSmileRight&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%E2%9A%99%EF%B8%8F+Java+%7C+Python+%7C+C+%7C+AWS;%F0%9F%92%BB+React+%7C+Tailwind+CSS+%7C+TypeScript;%F0%9F%8E%AF+Founder+%40+Vertise+Digital+Management" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=200&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=%E2%9A%A1+Architecting+Scalable+Backend+Systems;%F0%9F%9B%A0%EF%B8%8F+Java+%7C+Python+%7C+C+%7C+JavaScript;%F0%9F%92%BB+Full-Stack+%7C+React+%7C+Node.js;%F0%9F%8E%AF+Founder+%40+Vertise+Digital+Management" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/105972/screenshots/3838128/coder.gif"/>
 
-I am a **Backend-focused full-stack developer** and the founder of **Vertise Digital Management**. I specialize in building high-performance real-time systems and scalable web applications, combining technical rigor in backend architecture with a creative eye for design.
+I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digital Management**. I specialize in building high-performance real-time systems and scalable web applications, bridging the gap between complex backend architecture and high-availability digital solutions.
 
 - 🏢 Founder @ **Vertise Digital Management**
-- ⚙️ Currently engineering **real-time dashboards and web platforms**
-- 🎓 B.Tech Information Technology @ **PPG Institute Of Technology**
-- 💬 Ask me about **Java, Python, C, or Backend Optimization**
+- ⚙️ Currently working on **real-time dashboards and web platforms**
+- 🎓 B.Tech Information Technology @ **PPG Institute Of Technology** (CGPA: 7.8)
+- 💡 Passionate about **Backend optimization, APIs, and Data-Driven solutions**
 - 📍 Based in **Coimbatore, Tamil Nadu**
 
 <br clear="both"/>
@@ -31,12 +34,14 @@ I am a **Backend-focused full-stack developer** and the founder of **Vertise Dig
 
 #### 🔤 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Languages"/>
 </p>
 
 #### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </p>
 
 #### ⚙️ Backend & Frameworks
@@ -56,7 +61,7 @@ I am a **Backend-focused full-stack developer** and the founder of **Vertise Dig
 
 #### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,vercel&theme=dark" alt="Tools"/>
 </p>
 
 #### 🎨 Design
@@ -66,16 +71,7 @@ I am a **Backend-focused full-stack developer** and the founder of **Vertise Dig
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesSmileRight&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesSmileRight&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesSmileRight&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" height="180em"/>
-</p>
+## 📊 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamesSmileRight&custom_title=James'%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
@@ -89,9 +85,10 @@ I am a **Backend-focused full-stack developer** and the founder of **Vertise Dig
 <summary><b>🥇 Achievements (Click to expand)</b></summary>
 <br>
 
-| 🏅  | Achievement                                                   | Year |
-| --- | ------------------------------------------------------------- | ---- |
-| 🥈  | **2nd Place** – National Level Hackathon, SNS Institute of Tech | 2026 |
+| 🏅 | Achievement | Year |
+| :--- | :--- | :--- |
+| 🥈 | **2nd Place** – National Level Hackathon, SNS Institute of Technology | 2026 |
+| 🔹 | Won **₹2,500 cash prize** for building a full-stack web app in 8 hours. | 2026 |
 
 </details>
 
