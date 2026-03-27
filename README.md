@@ -68,6 +68,10 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesSmileRight&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamesSmileRight&custom_title=James'%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
