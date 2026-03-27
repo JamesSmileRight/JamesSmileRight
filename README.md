@@ -49,9 +49,12 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/>
 </p>
 
-#### 🗄️ Databases
+#### 🗄️ Databases & Management
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
+  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
 </p>
 
 #### ☁️ DevOps & Cloud
