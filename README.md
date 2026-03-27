@@ -30,9 +30,11 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
 
 ## 🛠️ Tech Stack & Tools
 
-#### 🔤 Languages
+#### 🔤 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,js&theme=dark" alt="Languages"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST_API-0052FF?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="REST API"/>
 </p>
 
 #### 🎨 Frontend
@@ -40,13 +42,6 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
   <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</p>
-
-#### ⚙️ Backend & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Backend"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_API-0052FF?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="REST API"/>
 </p>
 
 #### 🗄️ Databases & Management
@@ -57,19 +52,9 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
   <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
 </p>
 
-#### ☁️ DevOps & Cloud
+#### ☁️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="DevOps"/>
-</p>
-
-#### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,vercel&theme=dark" alt="Tools"/>
-</p>
-
-#### 🎨 Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai&theme=dark" alt="Design"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,vercel&theme=dark" alt="Tools"/>
 </p>
 
 ---
@@ -77,7 +62,7 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JamesSmileRight&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesSmileRight&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="180em"/>
 </p>
 
 <p align="center">
@@ -127,7 +112,7 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
 <br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs" alt="Dev Quote"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
