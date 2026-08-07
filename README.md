@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=James%20Aathithyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20Founder&descSize=18&descAlignY=52"/>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Jny3_w4lAZYwNnnaZqT31ROorlPl5tgc/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/11YdWgjUbRP15XDxJtDpF3RPbjYk06kwX/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download%20PDF-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
   <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-grey?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
