@@ -62,17 +62,17 @@ I'm a **Backend-focused full-stack developer** and the founder of **Vertise Digi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JamesSmileRight&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jamesaathithyandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180em"/>
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JamesSmileRight&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jamesaathithyandev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesSmileRight&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamesaathithyandev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamesSmileRight&custom_title=James'%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamesaathithyandev&custom_title=James'%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
